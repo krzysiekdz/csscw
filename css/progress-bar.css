@@ -1,0 +1,14 @@
+body {
+	border: 1px  solid black;
+	min-height: 500px;
+}
+
+.progress-bar {
+	width: 100%;
+	background-color: grey;
+}
+.bar {
+	height: 20px;
+	width: 20%;
+	background-color: green;
+}
