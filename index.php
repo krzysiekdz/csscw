@@ -8,7 +8,7 @@
 </head>
 
 <body>
-	<?php include('views/icon_bars.php'); ?>
+	<?php include('views/menu_scroll.php'); ?>
 </body>	
 
 </html>
